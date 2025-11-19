@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMikroulis
-- 👀 I’m interested in electrophysiology, dsp, and statistics
+- 👀 I’m interested in electrophysiology, dsp, and statistics/ML/DL
 
 
 <!---
